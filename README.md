@@ -28,9 +28,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/logicscienc/logicscienc/output/pacman-contribution-graph.svg" />
 </p>
- 📊 GitHub Status
+## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swarnlatakiran&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swarnlatakiran&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shristyk&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shristyk&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shristyk&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
