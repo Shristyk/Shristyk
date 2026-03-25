@@ -31,27 +31,6 @@
  📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swarnlatakiran&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swarnlatakiran&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Swarnlatakiran&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swarnlatakiran&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarnlatakiran&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-📊 GitHub Analytics
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=swarnlatakiran&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarnlatakiran&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnlatakiran&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
