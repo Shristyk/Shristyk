@@ -61,11 +61,13 @@
 </p>
 
 
+🙏 Thanks for Visiting My Profile
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Thank+You+for+Visiting!;Hope+You+Like+My+Work;Let's+Connect+and+Grow+Together+🚀" />
 </p>
 
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200"/>
+  I truly appreciate your time and interest in my GitHub profile.  
+  Feel free to explore my projects and connect with me! 
 </p>
