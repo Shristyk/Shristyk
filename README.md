@@ -69,3 +69,6 @@
   I truly appreciate your time and interest in my GitHub profile.  
   Feel free to explore my projects and connect with me! 
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200"/>
+</p>
